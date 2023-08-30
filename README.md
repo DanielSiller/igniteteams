@@ -1,7 +1,9 @@
 # Ignite Teams
 
 Mobile app for finding gaming partners to play our favorite game together.
+
 You can create multiple game classes to add your partners and separate by teams.
+
 Each class can have its own teams, and each team has its own members.
 
 ## Interface Mobile
